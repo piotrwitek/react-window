@@ -1,5 +1,7 @@
 # react-window
 
+### This is a fork of react-window providing the npm package with issues/6 branch that added support for DynamicSizeList
+
 > React components for efficiently rendering large lists and tabular data
 
 [![NPM registry](https://img.shields.io/npm/v/react-window.svg?style=for-the-badge)](https://yarnpkg.com/en/package/react-window) [![Travis](https://img.shields.io/badge/ci-travis-green.svg?style=for-the-badge)](https://travis-ci.org/bvaughn/react-window) [![NPM license](https://img.shields.io/badge/license-mit-red.svg?style=for-the-badge)](LICENSE.md)
